@@ -4,6 +4,12 @@ A Minecraft modpack focused on improving vanilla Minecraft on the server-side. E
 
 This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your server tick time. These mods include Lithium, Ferrite Core and ModernFix.
 
+## Installation
+To install this modpack (which is shipped in `mrpack` format), a tool like [mrpack-install](https://github.com/nothub/mrpack-install):
+```bash
+mrpack-install-linux <link-to-mrpack-file>
+```
+
 ## Mod information
 All the mods have been carefully selected. If you have an issue of any kinds, or if you have recommendations or feature requests, feel free to [open an issue on GitHub](https://github.com/Thijzert123/server-plus/issues).
 
