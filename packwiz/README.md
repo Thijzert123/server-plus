@@ -11,7 +11,7 @@ packwiz modrinth export
 You can use `packwiz_update.py` to import all the mods, resource packs and shaders to another packwiz instance. Be sure to specify the game version, like `1.21.1` or `1.21.3`, or `all` to update all versions. After that, you need to copy the contents of the directory `packwiz/overrides/<your Minecraft version>` to your folder containing the packwiz data. Don't forget to run `packwiz refresh` to update the hashes and the `index.toml` file. These actions would look something like this:
 ```
 $ pwd # current working directory
-/home/john/git/client-plus/packwiz
+/home/john/git/server-plus/packwiz
 $ python3 packwiz_update.py 1.21.1
 ...
 $ cp -r overrides/YOUR-MC-VERSION/* mc1.21.1
