@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "16f42fd91129d7cba09dbdc523c923e57059266314f18edafc606e8d0641220d"
+hash = "455caee0f4c53abd8ae4d5f528a8b1fb513b181dffff9e9659cd746571220ee8"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "06c46f4319a3548afc70c19ba880d6f32b53c9b00f78af7ea3f8ce3197b2e610"
+hash = "fb47edbf5101eac0075c70d65eed2c871fb1f858d0519cd3d97fdcf72265c24a"
 metafile = true
 
 [[files]]
