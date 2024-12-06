@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7b4d96e6e7ff74d643c322eda1e406d3405d799361be94a4d41de603aa89d437"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
+metafile = true
+
+[[files]]
+file = "mods/glowing-torchflower.pw.toml"
+hash = "fb47edbf5101eac0075c70d65eed2c871fb1f858d0519cd3d97fdcf72265c24a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4ee204932077b04537814313c3dd4ed82fe2e8bf4b2dbb3fbcee7109852e1375"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "82f38a418e9d23011ce3ac428682752b4b3148c5fcf167d79303480cef83babb"
+metafile = true
