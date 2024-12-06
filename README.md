@@ -14,21 +14,21 @@ mrpack-install-linux <link-to-mrpack-file>
 All the mods have been carefully selected. If you have an issue of any kinds, or if you have recommendations or feature requests, feel free to [open an issue on GitHub](https://github.com/Thijzert123/server-plus/issues).
 
 These all the mods in this modpack, including their dependencies:
-|                               Name                              |1.20.1|1.20.4|1.21.1|1.21.3|
-|-----------------------------------------------------------------|------|------|------|------|
-|        [AppleSkin](https://modrinth.com/project/EsAfCjCV)       |   ✅  |   ✅  |   ✅  |   ✅  |
-|[Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)|   ✅  |   ✅  |   ✅  |   ✅  |
-|         [CalcMod](https://modrinth.com/project/XoHTb2Ap)        |   ✅  |   ✅  |   ✅  |   ❌  |
-|         [Chunky](https://modrinth.com/project/fALzjamp)         |   ✅  |   ✅  |   ✅  |   ✅  |
-|         [Clumps](https://modrinth.com/project/Wnxd13zP)         |   ✅  |   ✅  |   ✅  |   ✅  |
-|       [Fabric API](https://modrinth.com/project/P7dR8mSH)       |   ✅  |   ✅  |   ✅  |   ✅  |
-|       [FerriteCore](https://modrinth.com/project/uXXizFIs)      |   ✅  |   ✅  |   ✅  |   ✅  |
-|   [Glowing Torchflower](https://modrinth.com/project/1S4LxcvL)  |   ✅  |   ✅  |   ✅  |   ✅  |
-|         [Krypton](https://modrinth.com/project/fQEb0iXm)        |   ✅  |   ✅  |   ✅  |   ✅  |
-|         [Lithium](https://modrinth.com/project/gvQqBUqZ)        |   ✅  |   ✅  |   ✅  |   ✅  |
-|       [MixinTrace](https://modrinth.com/project/sGmHWmeL)       |   ✅  |   ✅  |   ✅  |   ❌  |
-|        [ModernFix](https://modrinth.com/project/nmDcB62a)       |   ✅  |   ✅  |   ✅  |   ❌  |
-|     [No Chat Reports](https://modrinth.com/project/qQyHxfxd)    |   ✅  |   ✅  |   ✅  |   ✅  |
-|         [Noisium](https://modrinth.com/project/KuNKN7d2)        |   ✅  |   ✅  |   ✅  |   ✅  |
-|    [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)   |   ✅  |   ✅  |   ✅  |   ✅  |
-|     [TCDCommons API](https://modrinth.com/project/Eldc1g37)     |   ✅  |   ✅  |   ✅  |   ✅  |
+|                               Name                              |1.21.4|1.21.3|1.21.1|1.20.4|1.20.1|
+|-----------------------------------------------------------------|------|------|------|------|------|
+|        [AppleSkin](https://modrinth.com/project/EsAfCjCV)       |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|[Better Statistics Screen](https://modrinth.com/project/n6PXGAoM)|   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|         [CalcMod](https://modrinth.com/project/XoHTb2Ap)        |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
+|         [Chunky](https://modrinth.com/project/fALzjamp)         |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|         [Clumps](https://modrinth.com/project/Wnxd13zP)         |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|       [Fabric API](https://modrinth.com/project/P7dR8mSH)       |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|       [FerriteCore](https://modrinth.com/project/uXXizFIs)      |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|   [Glowing Torchflower](https://modrinth.com/project/1S4LxcvL)  |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|         [Krypton](https://modrinth.com/project/fQEb0iXm)        |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|         [Lithium](https://modrinth.com/project/gvQqBUqZ)        |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|       [MixinTrace](https://modrinth.com/project/sGmHWmeL)       |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
+|        [ModernFix](https://modrinth.com/project/nmDcB62a)       |   ❌  |   ❌  |   ✅  |   ✅  |   ✅  |
+|     [No Chat Reports](https://modrinth.com/project/qQyHxfxd)    |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|         [Noisium](https://modrinth.com/project/KuNKN7d2)        |   ❌  |   ✅  |   ✅  |   ✅  |   ✅  |
+|    [Simple Voice Chat](https://modrinth.com/project/9eGKb6K1)   |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
+|     [TCDCommons API](https://modrinth.com/project/Eldc1g37)     |   ✅  |   ✅  |   ✅  |   ✅  |   ✅  |
