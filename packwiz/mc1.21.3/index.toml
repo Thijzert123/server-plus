@@ -1,13 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "386e990c85e864cd14bc4188750c0acb8f221f90b87377e91d122c88d9fac665"
+hash = "7c134a502138136669793c1d61ab1ecdab54f1a8e79d2ba075c1ea4d95eea11d"
 metafile = true
 
 [[files]]
