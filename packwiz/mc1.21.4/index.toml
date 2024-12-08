@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
