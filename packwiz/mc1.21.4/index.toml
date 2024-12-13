@@ -15,8 +15,13 @@ hash = "1fcc771366f6bf06deb079e6ae76fcee6500eedd38955a4959dc138a80a2a3da"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "64c483fe6597534270aac57d7cd3f59928641b97de649312a14d392b5343e483"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
+hash = "bae6c7361d1a1dd2ff099c563226526fd86069d68f6bb242bbae1a610a173204"
 metafile = true
 
 [[files]]
@@ -27,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "fb47edbf5101eac0075c70d65eed2c871fb1f858d0519cd3d97fdcf72265c24a"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
 
 [[files]]
