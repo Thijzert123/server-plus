@@ -9,11 +9,11 @@ import tomllib # python >= 3.11
 from py_markdown_table.markdown_table import markdown_table # pip install py-markdown-table
 
 
-PROJECT_LIST_FILENAME = "project_list.md"
+PROJECT_LIST_FILENAME = "packwiz_project_list.md"
 ROOT_DIR = "."
 MC_PREFIX = "mc"
 PACKWIZ_SUFFIX = ".pw.toml"
-SUPPORTED_MC_VERSIONS = ["1.21.4", "1.21.3", "1.21.1", "1.20.4", "1.20.1"]
+SUPPORTED_MC_VERSIONS = ["1.21.5", "1.21.4", "1.21.3", "1.21.1", "1.20.4", "1.20.1"]
 
 checkmark_icon = "✅"
 x_icon = "❌"
