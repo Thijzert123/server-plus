@@ -17,8 +17,7 @@
         {"id": "xaeros-minimap"},
         {"id": "xaeros-world-map"},
         {"id": "rei"},
-        {"id": "dcintegration"}],
-    "datapacks": [
+        {"id": "dcintegration"},
         {"id": "sit-datapack"},
         {"id": "mob-heads"}]
 }
