@@ -1,0 +1,13 @@
+name = "/sit"
+filename = "sit-datapack-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MI2DOogd/versions/7KN2LxUu/sit-datapack-1.1.jar"
+hash-format = "sha512"
+hash = "6dc5d0e861be28565a8a4bfbf6044cdbc47cbf8e303ba10b062ad4a8ef0e7e3a23ec356b2028e91449c00e4530dd99dcf69b1dcbb47304b97c97fab7c8265c75"
+
+[update]
+[update.modrinth]
+mod-id = "MI2DOogd"
+version = "7KN2LxUu"

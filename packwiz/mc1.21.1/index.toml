@@ -1,13 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "credits.txt"
+hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
-hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
+hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
 metafile = true
 
 [[files]]
@@ -17,7 +26,12 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
@@ -26,8 +40,18 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "4d45198d15e532897899a687a1d68636781b5987c9810640ce7e9ebc5c7b685d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
 metafile = true
 
 [[files]]
@@ -37,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "01071ec9726f37aca8f8e41a5f05844363341da48403382602c56dc4ed25e5cc"
+hash = "84648db007cf83ed8e75ce50b021d76101a2de7afe3d6c5bec744b2370e65de5"
 metafile = true
 
 [[files]]
@@ -47,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
@@ -56,13 +80,13 @@ hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
+file = "mods/mob-heads.pw.toml"
+hash = "96b113cf58bf2cc3388df5821889ca42c6e4f34745d61869f12c956d69378009"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
+file = "mods/modernfix.pw.toml"
+hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
@@ -71,11 +95,36 @@ hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "0a5ac09659d6565197829af0d2b6e8caa0f0aa5dac123e75c5846bf10914b9ed"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b4dd4bdea5b9f69e842f0096feb79d3bd2635de2ea2b68a0ff2e158acaf9d4a4"
+hash = "3f74bba2fa702257f073f185246d70109e7aa6a464084382f75ec91a4c9b2ac1"
+metafile = true
+
+[[files]]
+file = "mods/sit-datapack.pw.toml"
+hash = "35f72cc2396b8266e6dd6ccbf0ddbbd206fc079dc93d92c689b27787de432e27"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "3105655e451d9a2d5cdd4f791cc6a8f20a4063da9bf5713eeaeb341ea702f8cf"
+hash = "ffa71e1ce188b71291daa8bb67e8094ff7d0ef695add362200591c28e75cf457"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9e505dd9481f099ebf08915d1d416cbf4f114fb72416e5d2a8cf2c696a409ae0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "0e8197678bdbd58190813d5e5070c72071e673c97b728aa5eaf88195de9a0bf1"
 metafile = true

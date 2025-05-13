@@ -1,0 +1,13 @@
+name = "Your Items Are Safe"
+filename = "youritemsaresafe-1.21.3-4.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lL35xmSR/versions/Z4wNfrak/youritemsaresafe-1.21.3-4.5.jar"
+hash-format = "sha512"
+hash = "8cac401565c5706f3cb60282e0f8357717e2ca8f2a3967db94bf9637ccd803eea0cef9e339ca03ccb3ac5b80d0b15fd3a8b70e75685f6b48c1ca395b970a148f"
+
+[update]
+[update.modrinth]
+mod-id = "lL35xmSR"
+version = "Z4wNfrak"

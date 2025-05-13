@@ -10,6 +10,11 @@ hash = "76e15da6281121b0ad76cfa0dac2fa72b12e050e4cfbf44debbd819b7dac1f69"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "9caa254bdbb9dbafd1cc29616cd6aa26f4972eb583961225cf8a8b4836071bfb"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "12f62418cb482a1f068c083d83c55e02bf9fb730e8a778bba6e19b99920cb297"
 metafile = true
@@ -25,8 +30,23 @@ hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "c9ec56b8c12e59234c7b05234417a38a606a6a2d32ffe12f8ee1dc8c906cd974"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "a22e595eaf6de7a245a54cf5f94395896056c2630a2c2cccac16adc2fec45877"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "eef1a2f30a10ee833c056ad0335106c58a65a22ee9427fba6e8f9979553e9807"
 metafile = true
 
 [[files]]
@@ -41,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
-hash = "01071ec9726f37aca8f8e41a5f05844363341da48403382602c56dc4ed25e5cc"
+hash = "84648db007cf83ed8e75ce50b021d76101a2de7afe3d6c5bec744b2370e65de5"
 metafile = true
 
 [[files]]
@@ -60,18 +80,23 @@ hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
+file = "mods/mob-heads.pw.toml"
+hash = "60288c37cd0d10d3c4e28d0030ca4fca921e3a47be02f974b0f80551f9b4706a"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "af6cdd0fcc0d327c5d26c3c0fb49cf238d572be9985420aba71a4f2bddc01583"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
+file = "mods/noisium.pw.toml"
+hash = "ce74db07a1394c86e6d3e5b2860a89a8794ac02b3b5fdcf606c4689d97dc1543"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "ce74db07a1394c86e6d3e5b2860a89a8794ac02b3b5fdcf606c4689d97dc1543"
+file = "mods/rei.pw.toml"
+hash = "eb0b5e525ecf3a48eee88656bccaef149197407a8a208c18bb4ddac981734db9"
 metafile = true
 
 [[files]]
@@ -81,5 +106,20 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "4d2619fc493b8ed73997bf4874719b5d899fc9d2d60629c4d608b070d985c60a"
+hash = "1f001b9b981605ad71192fa5f408157f84350d6e308d914cc4b346c97e081970"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "df37e3637bd94a185d7a2da4a2f2e4dae6d7fc2e4cbeeeb5538ef078dc5f90fd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "bf10e3b6f10785fd0b83f7725074b0345aadadd736ba15c226858bc273751bc8"
+metafile = true
+
+[[files]]
+file = "mods/your-items-are-safe.pw.toml"
+hash = "27468c2be31cfe258b9518dd345a87cd46f61d87818ab94574b8fb0dc11ce7d2"
 metafile = true
