@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Thijzert123/server-plus/blob/main/images/banner.png?raw=true)
-# Server+
+# Server+⠀ _made with [Packrinth](https://thijzert123.github.io/packrinth)_
 A Minecraft modpack focused on improving vanilla Minecraft on the server-side. Enjoy a better Minecraft with whoever you like!
 
 This modpack provides the best performance mods, allowing you to enjoy Minecraft without worrying about your server tick time. These mods include Lithium, Ferrite Core and ModernFix.
