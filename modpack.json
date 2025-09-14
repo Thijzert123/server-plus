@@ -1,0 +1,38 @@
+{
+	"pack_format": 1,
+	"name": "Server+",
+	"summary": "Modpack focused on improving vanilla Minecraft on the server-side",
+	"author": "Thijzert (https://github.com/Thijzert123)",
+	"require_all": true,
+	"auto_dependencies": true,
+	"branches": [
+		"1.21.8",
+		"1.21.5",
+		"1.21.4",
+		"1.21.3",
+		"1.21.1",
+		"1.20.4",
+		"1.20.1"
+	],
+	"projects": {
+		"sit-datapack": {},
+		"appleskin": {},
+		"better-stats": {},
+		"calcmod": {},
+		"chunky": {},
+		"clumps": {},
+		"dcintegration": {},
+		"glowing-torchflower": {},
+		"krypton": {},
+		"ferrite-core": {},
+		"lithium": {},
+		"mob-heads": {},
+		"no-chat-reports": {},
+		"noisium": {},
+		"rei": {},
+		"simple-voice-chat": {},
+		"xaeros-minimap": {},
+		"xaeros-world-map": {},
+		"your-items-are-safe": {}
+	}
+}
